@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings .strings
+  TheMovies
+
+  Created by Usman Ansari on 30/03/21.
+  
+*/
+"Movie Detail" = "Movie Detail";
+"Release date" = "Release date";
+"Ok" = "Ok";
+"Oops!" = "Oops!";
+"Overview" = "Overview";
+"Movies" = "Movies";
